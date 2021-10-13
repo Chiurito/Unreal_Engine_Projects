@@ -979,3 +979,9 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.10.13-20.10.39:033][666]LogStaticMesh: StaticMesh /Engine/EditorLandscapeResources/FlattenPlaneMesh.FlattenPlaneMesh should be resaved to improve async compilation performance.
 [2021.10.13-20.10.39:064][666]LogTexture: Display: Building textures: Texture2D_6 (G8, 128X128)
 [2021.10.13-20.10.45:507][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.10.13-20.11.11:614][ 70]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.10.13-20.11.11:640][ 70]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'Unable to find Color 'NiagaraEditor.AssetColors.EffectType'.'
+[2021.10.13-20.11.14:459][239]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.13-20.11.23:369][118]LogSlate: Window 'Project Settings' being destroyed
+[2021.10.13-20.11.23:373][118]LogSlate: Window 'Project Settings' being destroyed
+[2021.10.13-20.11.25:875][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
